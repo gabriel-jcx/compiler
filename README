@@ -1,0 +1,48 @@
+This program is a quarter long project in which my partner and i wrote a 3 code language called "oc"
+through a combination of C++, Flex, and Bison. The included files were written using pair programming
+containing code from the both of us. The Makefile was not written by us and was provided by the professor
+the code written by us are contained in the following files
+
+astree.h
+astree.c
+parser.y
+scanner.l
+string_set.h
+string_set.c
+symtable.h
+symtable.c
+oiler.h
+oiler.c
+
+all other files were provided by the professor.
+included in the zip is a very very brief writeup of the project
+i submitted for my senior portfolio
+
+
+
+
+
+
+
+
+This program was completed using pair programming.
+Partner:  Nelson Yeap (nyeap@ucsc.edu)
+Partner:  Chenxing Ji (cji13@ucsc.edu)
+
+We acknowledge that each partner in a programming pair should
+drive roughly 50% of the time the pair is working together, and
+at most 25% of an individual's effort for an assignment should
+be spent working alone.  Any work done by a solitary programmer
+must be reviewed by the partner.  The object is to work
+together, learning from each other, not to divide the work into
+two pieces with each partner working on a different piece.
+
+Nelson Yeap spent       0 hours working alone.
+Chenxing Ji spent       0 hours working alone.
+We spent                50 hours working together.
+Nelson Yeap spent       25 hours driving.
+Chenxing Ji spent       25 hours driving.
+
+Please grade the work submitted by cji13@ucsc.edu
+and not the work submitted by nyeap@ucsc.edu.
+
